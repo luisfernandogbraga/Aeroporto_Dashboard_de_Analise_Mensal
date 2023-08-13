@@ -41,7 +41,6 @@ Sinta-se à vontade para adaptar e expandir esse README conforme suas necessidad
     :construction:  Projeto em construção  :construction:
 </h4>
 
-# Autor
-https://avatars.githubusercontent.com/u/134460985?v=4
-| [<img loading="height:auto" src="https://avatars.githubusercontent.com/u/134460985?v=4" width=115><br><sub>Luis Fernando </sub>](https://github.com/luisfernandogbraga) |
+# AUTOR
 
+[<img loading="height:auto" src="https://avatars.githubusercontent.com/u/134460985?v=4" width=115><br><sub>Luis Fernando </sub>](https://github.com/luisfernandogbraga) 

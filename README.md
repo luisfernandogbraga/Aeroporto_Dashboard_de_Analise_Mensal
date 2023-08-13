@@ -36,3 +36,12 @@ Este repositório contém um projeto de construção de um dashboard de dados pa
 4. Compartilhe o relatório gerado por meio de um link acessível.
 
 Sinta-se à vontade para adaptar e expandir esse README conforme suas necessidades específicas. Certifique-se de incluir todas as instruções relevantes para que outros colaboradores ou usuários possam entender e contribuir para o projeto de forma eficiente.
+
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
+
+# Autor
+https://avatars.githubusercontent.com/u/134460985?v=4
+| [<img loading="height:auto" src="https://avatars.githubusercontent.com/u/134460985?v=4" width=115><br><sub>Luis Fernando </sub>](https://github.com/luisfernandogbraga) |
+
